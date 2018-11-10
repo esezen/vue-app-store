@@ -5,11 +5,16 @@
       <router-link to="/about">About</router-link>
     </div> -->
     <sidebar></sidebar>
+    <!-- <transition name="router-animation" enter-active-class="animated slideInUp faster"> -->
     <router-view />
+    <!-- </transition> -->
+
   </div>
 </template>
 <script>
 import Sidebar from './components/Sidebar'
+import 'animate.css/animate.css'
+
 export default {
   components: {
     Sidebar
