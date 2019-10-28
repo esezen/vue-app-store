@@ -6,6 +6,8 @@
 This is a App Store clone made using Vue and Electron. Special thanks to
 [Andre](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ 'Andre Madarang') for the tutorial.
 
+![Screenshot](/Screenshot.png)
+
 ## Project setup
 
 ```
