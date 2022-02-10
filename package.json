@@ -20,7 +20,7 @@
     "@vue/cli-plugin-babel": "^3.0.4",
     "@vue/cli-service": "^3.0.4",
     "electron": "^2.0.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.0.1",
     "tailwindcss": "^0.7.2",
     "vue-cli-plugin-electron-builder": "^1.0.0-rc.7",
